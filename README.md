@@ -2,7 +2,7 @@ Hi, I’m Peter Baum, iOS, Swift and now Vapor server-side developer, based in L
 
 I'm always looking to get involved in interesting projects on a contract basis.
 
-I’m currently developing a <a href="https://www.ladderscores.com">website</a> for racquet-sport clubs, using server-side Swift, the Vapor framework with Postgres and Bulma.
+I’m currently developing a <a href="https://www.ladderscores.com/allabout/0">website</a> for racquet-sport clubs, using server-side Swift, the Vapor framework with Postgres and Bulma.
 
 Reach me ... mail@peterbaum.info or +44 7976 244865
 
